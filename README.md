@@ -1,3 +1,3 @@
 # Live-Detector
 
-#training a model from scratch 
+#Live object detector and training it from scratch 
